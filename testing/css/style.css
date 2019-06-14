@@ -1,0 +1,18 @@
+.new_member_box_display{
+    min-height: 300px;
+    height: auto;
+    background-color: #e6ebe4; 
+    padding: 20px;
+    margin: 25px 0px 10px 0px;
+    border-radius: 3px;
+}
+
+.content_areas_left_textbody {
+    font-family: calibri;
+    margin: 20px 0px 20px 0px;
+    height: auto;
+}
+
+.answer1, .answer2, .answer3, .answer4 { 
+    display: none;
+}
